@@ -6,6 +6,7 @@ import logging
 def ping_endpoints():
     endpoints = [
         "https://instadicey-instagram-clone.onrender.com/",
+        "https://shady-edu-app.onrender.com/"
     ]
     
     for url in endpoints:
